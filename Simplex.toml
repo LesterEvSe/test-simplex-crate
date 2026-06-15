@@ -8,7 +8,7 @@ simf_files = ["p2pk.simf", "nested_sig.simf", "single_lib.simf"]
 
 [dependencies]
 #std = { git = "BlockstreamResearch/simf-std@v0.0.1", path = "lib/simf-std/contracts" } 
-hl_compiler = { git = "https://github.com/BlockstreamResearch/SimplicityHL", path = "examples/" }
+hl_compiler = { git = "https://github.com/LesterEvSe/SimplicityHL", path = "examples/" }
 
 # ARGS
 # std=lib/simf-std/contracts
