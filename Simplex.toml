@@ -1,5 +1,6 @@
 # DEFAULT CONFIG 
 
+# just test new commit in separate from main branch
 [build]
 src_dir = "test"
 # src_dir = "./simf"
