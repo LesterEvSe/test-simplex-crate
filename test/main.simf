@@ -1,1 +1,1 @@
-pub use std::lib as std;
+pub use std::lib::asserts::assert_eq_32;
