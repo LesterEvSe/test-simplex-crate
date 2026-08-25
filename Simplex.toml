@@ -7,8 +7,7 @@ src_dir = "test"
 # out_dir = "./src/artifacts"
 
 [dependencies]
-# std = { git = "BlockstreamResearch/simf-std@v0.0.1", path = "lib/simf-std/contracts" } 
-hl_compiler = { git = "https://github.com/LesterEvSe/SimplicityHL" }
+std = { git = "https://github.com/BlockstreamResearch/simplicityhl-std", rev = "3eafe6b" } 
 
 # ARGS
 # std=lib/simf-std/contracts
