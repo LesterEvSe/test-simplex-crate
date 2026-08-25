@@ -1,1 +1,5 @@
-pub use std::lib as std;
+pub use std::lib::u32::safe_add_32;
+
+pub fn temp_add(a: u32, b: u32) -> u32 {
+    safe_add_32(a, b)
+}
