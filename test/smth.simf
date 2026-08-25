@@ -1,0 +1,5 @@
+pub use std::lib::asserts::assert_eq_32;
+
+pub fn hash(x: u32, y: u32) -> u32 {
+    jet::xor_32(x, y)
+}

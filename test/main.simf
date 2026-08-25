@@ -1,1 +1,0 @@
-pub use std::lib::asserts::assert_eq_32;
